@@ -10,3 +10,6 @@
 [submodule "line_item"]
 	path = line_item
 	url = git@github.com:allovelle/line_item.git
+[submodule "loveutils"]
+	path = loveutils
+	url = git@github.com:allovelle/loveutils.git
