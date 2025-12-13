@@ -1,0 +1,9 @@
+[submodule "srcutils"]
+	path = srcutils
+	url = git@github.com:allovelle/srcutils.git
+[submodule "member-rs"]
+	path = member-rs
+	url = git@github.com:allovelle/member-rs.git
+[submodule "solutils"]
+	path = solutils
+	url = git@github.com:allovelle/solutils.git
