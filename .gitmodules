@@ -7,3 +7,6 @@
 [submodule "solutils"]
 	path = solutils
 	url = git@github.com:allovelle/solutils.git
+[submodule "line_item"]
+	path = line_item
+	url = git@github.com:allovelle/line_item.git
