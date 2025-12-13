@@ -13,3 +13,6 @@
 [submodule "loveutils"]
 	path = loveutils
 	url = git@github.com:allovelle/loveutils.git
+[submodule "line-item"]
+	path = line-item
+	url = git@github.com:allovelle/line-item.git
